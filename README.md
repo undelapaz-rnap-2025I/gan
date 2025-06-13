@@ -63,3 +63,8 @@ $$
    $$
    \text{Usar: } \mathbb{E}_{z \sim p_z}[-\log D(G(z))] \quad \text{(Heuristic non-saturating loss)}
    $$
+
+
+### 5. **GAN Lab**
+
+En el siguiente enlace se encuentra disponible una ilustración interactiva del funcionamiento de las (GANs): https://poloclub.github.io/ganlab/
