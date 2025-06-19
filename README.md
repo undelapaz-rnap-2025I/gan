@@ -70,8 +70,6 @@ $$
 
 En el siguiente enlace se encuentra disponible una ilustración interactiva del funcionamiento de las (GANs): https://poloclub.github.io/ganlab/
 
-Aquí tienes una **sección para agregar al final del `README.md`** con la descripción clara de la tarea para estudiantes del curso de Redes Neuronales y Aprendizaje Profundo. Está redactada de forma académica, con énfasis en la comprensión del entrenamiento de la GAN y en el desarrollo de una interfaz gráfica.
-
 ---
 
 ### 6. **Tarea: Análisis de Dinámica de Entrenamiento y Desarrollo de Interfaz Interactiva**
