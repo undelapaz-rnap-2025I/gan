@@ -93,6 +93,4 @@ A partir del script `run_experiment.py`, los estudiantes deben desarrollar una a
 Desarrollar una **interfaz gráfica** que incluya al menos dos funcionalidades:
 
 * **Generar dígito aleatorio**: Un botón que, al hacer clic, utilice el generador entrenado para crear una nueva imagen de dígito.
-* **Reconocer dígito generado**: Otro botón que aplique un clasificador entrenado (por ejemplo, un modelo preentrenado en PyTorch) para identificar automáticamente qué dígito representa la imagen generada.
-
-Opcionalmente, se pueden mostrar los valores de confianza (probabilidades) del clasificador.
+* **Reconocer dígito generado**: Otro botón que aplique un clasificador entrenado (por ejemplo, un modelo preentrenado en PyTorch) para identificar automáticamente qué dígito representa la imagen generada. Opcionalmente, se pueden mostrar los valores de confianza (probabilidades) del clasificador.
