@@ -68,3 +68,31 @@ $$
 ### 5. **GAN Lab**
 
 En el siguiente enlace se encuentra disponible una ilustración interactiva del funcionamiento de las (GANs): https://poloclub.github.io/ganlab/
+
+Aquí tienes una **sección para agregar al final del `README.md`** con la descripción clara de la tarea para estudiantes del curso de Redes Neuronales y Aprendizaje Profundo. Está redactada de forma académica, con énfasis en la comprensión del entrenamiento de la GAN y en el desarrollo de una interfaz gráfica.
+
+---
+
+### 6. **Tarea: Análisis de Dinámica de Entrenamiento y Desarrollo de Interfaz Interactiva**
+
+A partir del script `run_experiment.py`, los estudiantes deben desarrollar una actividad práctica que consta de dos partes:
+
+#### Parte 1: Análisis de la dinámica de entrenamiento
+
+1. Ejecutar el script `run_experiment.py` para entrenar una red generativa adversaria sobre el conjunto de datos MNIST.
+2. Analizar la evolución de las pérdidas del generador y del discriminador a lo largo de las épocas.
+3. Realizar un **reporte técnico** que incluya:
+
+   * Gráficos de las pérdidas y su interpretación.
+   * Discusión sobre el equilibrio entre generador y discriminador.
+   * Visualización de las imágenes generadas en distintas épocas.
+   * Reflexión sobre la convergencia y estabilidad del modelo.
+
+#### Parte 2: Interfaz gráfica con generación y reconocimiento
+
+Desarrollar una **interfaz gráfica** que incluya al menos dos funcionalidades:
+
+* **Generar dígito aleatorio**: Un botón que, al hacer clic, utilice el generador entrenado para crear una nueva imagen de dígito.
+* **Reconocer dígito generado**: Otro botón que aplique un clasificador entrenado (por ejemplo, un modelo preentrenado en PyTorch) para identificar automáticamente qué dígito representa la imagen generada.
+
+Opcionalmente, se pueden mostrar los valores de confianza (probabilidades) del clasificador.
