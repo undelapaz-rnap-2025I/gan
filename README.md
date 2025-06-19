@@ -64,6 +64,7 @@ $$
    \text{Usar: } \mathbb{E}_{z \sim p_z}[-\log D(G(z))] \quad \text{(Heuristic non-saturating loss)}
    $$
 
+---
 
 ### 5. **GAN Lab**
 
